@@ -2,7 +2,7 @@
 
 A modern, AI-powered personal assistant that combines task management, calendar scheduling, and natural conversation capabilities. Built with React, TypeScript, and Google's Gemini AI.
 
-![AI Assistant Screenshot](https://images.unsplash.com/photo-1700165839590-3917b850a1ef?q=80&w=1200&auto=format&fit=crop)
+
 
 ## Features
 
@@ -86,6 +86,8 @@ A modern, AI-powered personal assistant that combines task management, calendar 
    - Filter tasks by status
    - Mark tasks as complete
    - Delete tasks when needed
+  
+5. https://fantastic-entremet-71f611.netlify.app/
 
 ## Contributing
 
