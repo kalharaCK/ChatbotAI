@@ -87,6 +87,5 @@ A modern, AI-powered personal assistant that combines task management, calendar 
    - Mark tasks as complete
    - Delete tasks when needed
   
-5. https://fantastic-entremet-71f611.netlify.app/
 
 
